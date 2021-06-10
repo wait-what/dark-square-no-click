@@ -1,6 +1,6 @@
 [package]
 name = "dark-square-no-click"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["wait_what_"]
 edition = "2018"
 

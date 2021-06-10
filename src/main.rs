@@ -180,7 +180,9 @@ async fn main() {
         // Logic
         if !failed {
             combo = clamp(combo - get_frame_time() / 10., 0., 1.);
-            time -= get_frame_time();
+            if score > 0 {
+                time -= get_frame_time();
+            }
         }
 
         if time <= 0. {
