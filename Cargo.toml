@@ -1,0 +1,13 @@
+[package]
+name = "dark-square-no-click"
+version = "1.0.0"
+authors = ["wait_what_"]
+edition = "2018"
+
+[profile.release]
+lto = true
+opt-level = 'z'
+
+[dependencies]
+macroquad = "0.3.5"
+rand = "0.8.3"
