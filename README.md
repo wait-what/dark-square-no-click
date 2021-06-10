@@ -1,7 +1,7 @@
 # Dark square, no click!
 A game inspired by [White tile, don't tap it!](https://www.donttap.com/)
 
-## [DOWNLOAD]()
+## [DOWNLOAD](https://files.waitwhat.help/dark_square_no_click/)
 
 ![Screenshot](./screenshot.png)
 
@@ -15,7 +15,7 @@ A game inspired by [White tile, don't tap it!](https://www.donttap.com/)
 > For a better experience, **disable vsync**! On linux with the mesa driver, this can be accomplished using `export vblank_mode=0`
 
 ## Pre-built downloads
-[**DOWNLOAD HERE**]() if you don't feel like building it yourself
+[**DOWNLOAD HERE**](https://files.waitwhat.help/dark_square_no_click/) if you don't feel like building it yourself
 
 Windows and Defender will probabably get mad at the files! If you do not trust my builds, that's on you - compile it yourself
 
