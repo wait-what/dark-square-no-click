@@ -1,5 +1,5 @@
 # Dark square, no click!
-A game inspired by [White tile, don't tap it!](https://www.donttap.com/)
+A game inspired by [White tile, don't tap it!](http://www.donttap.com/)
 
 ## [DOWNLOAD](https://github.com/wait-what/dark-square-no-click/releases)
 
