@@ -143,7 +143,7 @@ async fn main() {
                 3 => GREEN,
                 4 => BLUE,
                 5 => PURPLE,
-                _ => unreachable!(),
+                _ => PINK,
             }
         );
 
